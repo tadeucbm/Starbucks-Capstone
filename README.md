@@ -3,7 +3,7 @@
 
 ## Installations
 
-1. Python 3.8.0
+1. Python 3.7.9
 
 2. Pandas 1.3.5
 
