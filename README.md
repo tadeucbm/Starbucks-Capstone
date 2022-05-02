@@ -40,7 +40,7 @@ Files:
 
 ## How to Interact with the project
 
-The entire project is in the [notebook](https://github.com/tadeucbm/AnalysisStackoverflow/blob/main/notebook.ipynb). You just need to install the necessary libraries and run the notebook.   
+The entire project is in the [notebook](https://github.com/tadeucbm/AnalysisStackoverflow/blob/main/notebook.ipynb). You just need to install the necessary libraries in requirementx.txt and run the notebook.   
 
 Furthermore, the results were described in [this post in the medium](https://medium.com/@tadeucbmad/starbucks-study-case-how-to-predict-whether-your-customers-will-use-your-offers-9d97f7fcd1b1).   
 <br/>
