@@ -20,6 +20,8 @@
 8. lightgbm 3.3.2
 
 9. xgboost 1.6.0
+
+10. missingno 0.5.1
    
    <br/>
 
