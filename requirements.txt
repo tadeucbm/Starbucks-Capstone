@@ -6,3 +6,4 @@ scikit-learn==1.0.2
 catboost==1.0.5
 lightgbm==3.3.2
 xgboost==1.6.0
+jupyterlab==3.3.4
